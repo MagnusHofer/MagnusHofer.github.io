@@ -1,15 +1,14 @@
 h1 {
-    color: white;
-    background-color: black;
+    color: black;
     font-family: "Courier New", Courier, monospace;
-    font-size: 200%;
+    font-size: 400%;
     text-align: center;
+    
     
 }
 
 h2 {
-    color: white;
-    background-color: black;
+    color: darkgrey;
     font-family: "Courier New", Courier, monospace;
     font-size: 150%;
     text-align: center;
@@ -17,7 +16,7 @@ h2 {
 }
 #Navigation {
     font-family: "Courier New", Courier, monospace;
-    font-size: 120%;
+    font-size: 200%;
     text-align: center;
     
 }
@@ -28,3 +27,4 @@ h2 {
    height:60px;   /* Height of the footer */
  
 }
+
